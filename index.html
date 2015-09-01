@@ -1,50 +1,23 @@
-<!doctype html>
+---
+layout: default
+---
 
-<html lang="et">
-<head>
-  <meta charset="utf-8">
-  <meta name=viewport content="width=device-width, initial-scale=1">
+<div class="home">
 
-  <title>IT Kolledži Linux Usergroup</title>
-  <meta name="description" content="IT Kolledži Linux Usergroup'i koduleht">
-  <meta name="author" content="Arti Zirk <arti.zirk@gmail.com>">
+  <h1 class="page-heading">Posts</h1>
 
-  <style type="text/css">
-body {
-    margin: 40px auto;
-    max-width: 650px;
-    line-height: 1.6;
-    font-size: 18px;
-    color: #444;
-    padding: 0 10px
-}
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-h1,h2,h3 {
-    line-height: 1.2
-}
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0; 
-}
-  </style>
-</head>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-<body>
-	<h1>Tere LUG-i huviline</h1>
-	
-	<p>
-	Siia tekib mingi hetk IT Kolledži Linux Usergroupi uus kodukas mis hakkab asendama
-	hektel lives olevat <a href="http://lug.itcollege.ee">lug.itcollege.ee</a> lehte.
-	</p>
-	
-	<footer><small><small>
-		<br><hr>
-	</small></small></footer>
-</body>
-</html>
-
+</div>
