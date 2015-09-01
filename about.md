@@ -18,7 +18,7 @@ LUGis on julgustav ja õppimist toetav õhkkond, nii et huviliste küsimused saa
 ühiste kogemuste pagasi najal kindlasti vastused!
 
 Kui tunned, et soovid lisaks siin blogis kirjas olevale infole samuti asjas osaleda,
-siis tule aga julgesti meie kogunemistele (aeg ja koht selgumisel seoses uue kooli aastaga! 😊 ).
+siis tule aga julgesti meie kogunemistele. Kus ja millal? -> [ITK Hackerspace calender](https://www.google.com/calendar/embed?src=c28hbeqbtg3ri59eebm6fp3bto%40group.calendar.google.com&ctz=Europe/Tallinn).
 
 Ootame Sind!
 
