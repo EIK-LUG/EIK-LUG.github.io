@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Meet (17.11.14)"
+date:   2014-11-17
+categories: LUG
+---
+
+Seekord käisime läbi näite väikesest objekt orienteeritud programmist, kuidas selle sisetöö käib, millised olid komponendid ja kuidas need suhtlesid omavahel. Ühtlasi sai ka üsna palju Java keele vahendite rollid lahti seletatud: private, public, static, method overriding, Objecti classi mõned tuntumad meetodid ja veel.
+
+Repo: <a href="https://github.com/ITK-LUG/OOP" title="oop">https://github.com/ITK-LUG/OOP</a>
+
+Kuna need tunnid on hakanud muutuma veidi liiga teoreetiliseks siis toimub sellel nädalavahetusel mini hackathon, et õpitut praktiseerida. Rohkem infot tuleb lähiajal.

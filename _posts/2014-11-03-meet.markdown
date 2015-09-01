@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Meet (03.11.14)"
+date:   2014-11-03
+categories: LUG
+---
+
+Nii mõnigi algaja sai see nädal ülevaate programmeerimisest. Milliseid töövahendeid arendajad oma igapäevases töös kasutavad, kuidas nende seast omale sobiv valida, millised on elementaarsed programmi komponendid, kuidas neid kasutada ja kuidas oma program abstrahheerida kergesti käsitletavateks osadeks.  
+
+Esitluse prezi: 
+<a href="https://prezi.com/lfflkvzd0p_o/programming-101/" title="prezi">https://prezi.com/lfflkvzd0p_o/programming-101/</a>
+
+Järgmine .hack Neljapäeval 06.11.14.

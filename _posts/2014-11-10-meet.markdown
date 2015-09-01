@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Meet (10.11.14)"
+date:   2014-11-10
+categories: LUG
+---
+
+Objekt orienteeritud programmeerimine, termin mida iga IT inimene on kuulnud. Sellel esmaspäeval sai räägitud klassidest,  pärimisest, liidestest ja nende rakendustest.
+
+Kuna teema on suhteliselt suur siis tuleb ka Object Oriented Programming 2, kus natukene kordame üle selle korra teemasid, räägime abstraktsetest klassidest ning siis lahendame päris maailma ülesandeid kasutades seda mida õppinud oleme.
+
+Nagu lubatud, näidete repo: <a href="https://github.com/ITK-LUG/OOP" title="oop">https://github.com/ITK-LUG/OOP</a> 

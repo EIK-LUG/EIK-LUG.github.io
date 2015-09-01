@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Meet (20.10.14)"
+date:   2014-10-20
+categories: LUG
+---
+
+Heard of git? This time we learned about how to use git, creating clone repositories, creating local repositories, committing changes to local repositories and pushing to remote repositories, changing git configurations, also a bit about ssh keys and problem solving in the case of conflicts. Using Version Control Systems (VCS) is an integral part of every developers workflow so we think this was a worthwhile lesson. 
+
+We also agreed that we would set up two repos on github so that everyone could try their hand at git. For this two half-complete repositories were created, if you are interested feel free to try git with them. The applications are themselves identical, flash card programs for learning, written in both Java and Python.
+
+In Java:
+<a href="https://github.com/ITK-LUG/flash-cards-java" title="JavaVer">https://github.com/ITK-LUG/flash-cards-java</a>
+
+In Python:
+<a href="https://github.com/ITK-LUG/flash-cards-py" title="PythonVer">https://github.com/ITK-LUG/flash-cards-py</a>
+
+Till Monday!

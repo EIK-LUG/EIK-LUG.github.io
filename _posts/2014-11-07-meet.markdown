@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Meet (07.11.14)"
+date:   2014-11-07
+categories: LUG
+---
+
+Esimene .hacki neljapäevane kokkutulek möödus androidi appide programmeerimise põhimõtete lahti seletamisega. Misasjad on activitied, taskid, intentid, bundleid ja muud sai loodetavasti selgemaks ja mingi ettekujutus android appi tööst loodud.
+
+androidi koduleht: <a href="https://developer.android.com/" title="https://developer.android.com/">https://developer.android.com/</a>

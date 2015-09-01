@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Meet (06.10.14)"
+date:   2014-10-13
+categories: LUG
+---
+
+This week we wrote a small script to enable us to make some simple statistical analysis. 
+
+The task from an imaginary employer:
+
+"We have supplied you with a file containing 9001 URLs. We wish to know how many of these websites use HTML5 tags. Also please include info about websites that did not respond, timed out or encountered other errors."
+
+To solve this task we came up with the following solution:
+
+<a href="https://github.com/ITK-LUG/html5-statistics-py" title="statistics.py">https://github.com/ITK-LUG/html5-statistics-py</a>
+
+This weeks task was simple to accommodate those unfamiliar with python or programming in general. Currently we are not building complicated large applications, so if you are a beginner, this is your chance to get some practice. Or for those interested an opportunity to teach, just let us know what and when!
+
+See you all on monday.
