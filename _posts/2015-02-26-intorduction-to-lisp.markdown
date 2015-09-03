@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Lisp (26.02.15)"
-date:   2015-03-08
+date:   2015-02-26
 categories: LUG
 ---
 

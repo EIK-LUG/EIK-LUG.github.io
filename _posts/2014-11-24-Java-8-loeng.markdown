@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Java 8 loeng (24.11.14)"
+date:   2014-11-24
+categories: LUG
+---
+
+Java 8 oli suur muutus Java keelele, mis tõi endaga kaasa nii keele selgsust parandavaid trikke, kui ka lihtsaid lahendusi rasketele probleemidele.
+
+Loeng oli üsnagi tehniline aga samas ka väga sisutihe. Kindlasti soovitatav kõigile, kes soovivad oma silmaringi avardada ja IT trendidega sammu pidada.
+
+Siin on lindistus sellest loengust: [https://echo360.e-ope.ee/ess/echo/presentation/72fd9d36-ae64-4398-bed9-5e65ff09c801](echo) (Väga soovitatav!)

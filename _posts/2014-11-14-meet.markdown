@@ -1,0 +1,8 @@
+---
+layout: post
+title:  ".hack meet (20.11.14)"
+date:   2014-11-24
+categories: LUG
+---
+
+Seekord midagi adminnidele. Panime igaüks omale püsti kaks Ubuntu serverit virtualboxi keskkondades ja lõime master - slave suhte. Laadisime Salti nendele peale, sätestasime need ära ja kasutasime Salti, et märkida ära, mida tahame oma arvutitesse. Väga huvitav praktiline töötuba!

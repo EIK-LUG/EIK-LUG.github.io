@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "IT ametid (01.12.14)"
+date:   2014-12-01
+categories: LUG
+---
+
+Seekord rääkisime ülevaatlikult sellest milliseid ameteid on infotehnoloogias - UI designerid, arhitektid, data scientists ja veel palju muud. Muidugi on tegemist üsnagi subjektiivse teemaga, kuna programmeerija võib tähendada väga erinevaid asju erinevates ettevõtetes ja tihti pole keegi ainult ühe ameti peal vaid pigem kombinatsioon nendest.
+
+Meie kategoriseeritud kokkuvõte: hetkel puudub
