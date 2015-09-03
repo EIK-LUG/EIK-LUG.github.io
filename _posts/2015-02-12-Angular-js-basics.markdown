@@ -4,4 +4,4 @@ title:  "Angular.js basics (12.02.15)"
 date:   2015-02-12
 categories: LUG
 ---
-Nägime kuidas näeks välja üks Angulari applikatsioon. Sai räägitud põhilistest ideedest, mis on angularis kasutusel ja töötavate näidete põhjal neid demonstreeritud.
+NÃ¤gime kuidas nÃ¤eks vÃ¤lja Ã¼ks Angulari applikatsioon. Sai rÃ¤Ã¤gitud pÃµhilistest ideedest, mis on angularis kasutusel ja tÃ¶Ã¶tavate nÃ¤idete pÃµhjal neid demonstreeritud.

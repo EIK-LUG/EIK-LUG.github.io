@@ -5,4 +5,4 @@ date:   2014-11-24
 categories: LUG
 ---
 
-Seekord midagi adminnidele. Panime igaüks omale püsti kaks Ubuntu serverit virtualboxi keskkondades ja lõime master - slave suhte. Laadisime Salti nendele peale, sätestasime need ära ja kasutasime Salti, et märkida ära, mida tahame oma arvutitesse. Väga huvitav praktiline töötuba!
+Seekord midagi adminnidele. Panime igaÃ¼ks omale pÃ¼sti kaks Ubuntu serverit virtualboxi keskkondades ja lÃµime master - slave suhte. Laadisime Salti nendele peale, sÃ¤testasime need Ã¤ra ja kasutasime Salti, et mÃ¤rkida Ã¤ra, mida tahame oma arvutitesse. VÃ¤ga huvitav praktiline tÃ¶Ã¶tuba!

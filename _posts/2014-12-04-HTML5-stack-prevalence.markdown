@@ -4,9 +4,9 @@ title:  "HTML5 stack prevalence (04.12.14)"
 date:   2014-12-04
 categories: LUG
 ---
-Esitus tehnoloogiatest, mis lubavad tuua HTML5 stacki tehnoloogiad browserist v‰lja ja nende abil arendada desktop ja mobiilseid aplikatsioone. Ja oodake, see pole veel kıik! Lisaks sellele lubavad need tehnoloogiad olla cross platvormilised - Kirjuta ¸ks aplikatsioon ja edasi pordi oma kood nt. webist desktopile ja mobiilile. Veel on vıimalus natuke lisa tˆˆd tehes see portida ka nii Windowsile, Linuxile kui ka Macile ja samamoodi Iphoneile ja Androidile! Muidugi r‰‰kisime ka negatiivsetest k¸lgedest, kuna tegemist on ikkagi "bleeding-edge" tehnoloogiaga.
+Esitus tehnoloogiatest, mis lubavad tuua HTML5 stacki tehnoloogiad browserist v√§lja ja nende abil arendada desktop ja mobiilseid aplikatsioone. Ja oodake, see pole veel k√µik! Lisaks sellele lubavad need tehnoloogiad olla cross platvormilised - Kirjuta √ºks aplikatsioon ja edasi pordi oma kood nt. webist desktopile ja mobiilile. Veel on v√µimalus natuke lisa t√∂√∂d tehes see portida ka nii Windowsile, Linuxile kui ka Macile ja samamoodi Iphoneile ja Androidile! Muidugi r√§√§kisime ka negatiivsetest k√ºlgedest, kuna tegemist on ikkagi "bleeding-edge" tehnoloogiaga.
 
-Tehnoloogiad millest r‰‰kisime:
+Tehnoloogiad millest r√§√§kisime:
 
 Node-Webkit: [https://github.com/rogerwang/node-webkit](https://github.com/rogerwang/node-webkit)
 Supersonic: [http://www.appgyver.com/](http://www.appgyver.com/)

@@ -5,8 +5,8 @@ date:   2014-11-24
 categories: LUG
 ---
 
-Java 8 oli suur muutus Java keelele, mis tıi endaga kaasa nii keele selgsust parandavaid trikke, kui ka lihtsaid lahendusi rasketele probleemidele.
+Java 8 oli suur muutus Java keelele, mis t√µi endaga kaasa nii keele selgsust parandavaid trikke, kui ka lihtsaid lahendusi rasketele probleemidele.
 
-Loeng oli ¸snagi tehniline aga samas ka v‰ga sisutihe. Kindlasti soovitatav kıigile, kes soovivad oma silmaringi avardada ja IT trendidega sammu pidada.
+Loeng oli √ºsnagi tehniline aga samas ka v√§ga sisutihe. Kindlasti soovitatav k√µigile, kes soovivad oma silmaringi avardada ja IT trendidega sammu pidada.
 
-Siin on lindistus sellest loengust: [https://echo360.e-ope.ee/ess/echo/presentation/72fd9d36-ae64-4398-bed9-5e65ff09c801](echo) (V‰ga soovitatav!)
+Siin on lindistus sellest loengust: [https://echo360.e-ope.ee/ess/echo/presentation/72fd9d36-ae64-4398-bed9-5e65ff09c801](echo) (V√§ga soovitatav!)
