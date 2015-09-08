@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Õppimise ressursid
+title: Learning Resources
 permalink: /learning-resources/
 ---
 
