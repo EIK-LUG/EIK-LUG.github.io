@@ -18,6 +18,6 @@ No need to actually compete, it doubles as an excellent source for practice exer
 
 [Visual Algo](http://visualgo.net/) & [cs.usfca.edu algorithm visualisation](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualisation of data structures and algorithms.
 
-[Desktop Environments for Linux](http://askubuntu.com/questions/65083/what-kinds-of-desktop-environments-and-shells-are-available) & [Gnome Look](http://gnome-look.org/) - Have linux installed, but want to make it look pleasing to the eyes? Your welcome.
+[Desktop Environments for Linux](http://askubuntu.com/questions/65083/what-kinds-of-desktop-environments-and-shells-are-available) & [Gnome Look](http://gnome-look.org/) - Have linux installed, but want to make it look pleasing to the eyes? You're welcome.
 
 [DistroWatch](http://distrowatch.com/) - Have a look here to see what the different shapes and sizes of linux are up to or what exists at all.
