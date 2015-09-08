@@ -1,2 +1,2 @@
-# ITK-LUG.github.io
+# EIK-LUG.github.io
 ITK LUG Kodukas
