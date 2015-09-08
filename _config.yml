@@ -6,6 +6,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "http://lug.itcollege.ee" # the base hostname & protocol for your site
 github_username: EIK-LUG
+irc_network: freenode
+irc_channel: "#eik-lug"
+irc_webchat: "http://webchat.freenode.net/?channels=%23eik-lug&uio=MTY9dHJ1ZQ79"
 
 # Build settings
 markdown: kramdown

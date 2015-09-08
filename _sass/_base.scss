@@ -200,4 +200,12 @@ pre {
             fill: $grey-color;
         }
     }
+    > img {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+        filter: gray; /* IE6-9 */
+        filter: grayscale(1); /* Other normal browsers */
+    }
 }
