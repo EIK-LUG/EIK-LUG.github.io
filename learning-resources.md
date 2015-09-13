@@ -14,6 +14,8 @@ Also a good resource for learning Python (First chapters are beginner friendly, 
 [HackerRank](https://www.hackerrank.com/domains) - A competitive coding site. Has a wide selection of programming languages and domains to choose from. 
 No need to actually compete, it doubles as an excellent source for practice exercises.
 
+[Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) - As the name implies a cheat sheet. A bit colourful and cluttered at first, but just look at the parts and it can be very helpful.
+
 [Online Python Tutor](http://pythontutor.com/composingprograms.html#mode=display) - A tool to visualize python program execution.
 
 [Visual Algo](http://visualgo.net/) & [cs.usfca.edu algorithm visualisation](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualisation of data structures and algorithms.
