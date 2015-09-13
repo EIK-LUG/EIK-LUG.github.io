@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EIK Hackerspace Weekly – 0000"
+title:  "EIK Hackerspace Weekly – 0b0000"
 date:   2015-08-28
 categories: hackerspace-weekly
 ---
