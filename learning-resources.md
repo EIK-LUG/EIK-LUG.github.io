@@ -8,6 +8,8 @@ Here are some materials that might be helpful:
 
 [EIK Extracurricular activities list](https://wiki.itcollege.ee/index.php/Extracurricular_activities) - If you want to do a Project with some support, check here. 
 
+[r/learnpython learning resources](https://www.reddit.com/r/learnpython/wiki/index) - An extensive list of resources for learning python.
+
 [Composing Programs](http://www.composingprograms.com/) - A free online book about methods for abstraction, programming paradigms, and techniques for managing the complexity of large programs.
 Also a good resource for learning Python (First chapters are beginner friendly, gets progressively harder).
 
