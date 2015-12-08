@@ -21,7 +21,7 @@ Rohkem infot siit: [https://www.facebook.com/events/593498160800353/](https://ww
 
 Rohkem infot siit: [https://www.facebook.com/groups/518152608341532 ](https://www.facebook.com/groups/518152608341532) 
 
-**Neljapäev 17:00-18:00 IT Kolledž 314 - Microsofti tehnoloogiaõhtu**
+**Neljapäev 17:00-21:00 IT Kolledž 314 - Microsofti tehnoloogiaõhtu**
 
 Rohkem infot siit: [http://www.mug.ee/tehno/](http://www.mug.ee/tehno/)
 
